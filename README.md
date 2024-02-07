@@ -106,7 +106,7 @@ The Executive view is a summary report with important metrics like Net Sales, Re
 ![A5](https://github.com/Shimoniarora/AtliQ-Business-Insight-360/assets/158834865/b4188016-1560-412e-abb0-afd21c7715b1)
 
 
-**Project Highlights:**
+**Project Insights:**
 
 - Explored various areas in Power BI, data modeling, dashboard crafting, and project charter comprehension.
 - Extended beyond Power BI to address business scenarios, specifically into P&L statement analysis.
