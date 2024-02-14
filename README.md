@@ -2,12 +2,11 @@
 
 **Project Overview:**
 
-The company specializes in manufacturing and supplying hardware such as PCs, mice, printers, etc., to numerous global companies. Notable clients include Croma, Amazon, Neptune, Staples, Walmart, and more. AtliQ caters to two types of customers—physical stores and e-commerce platforms. AltiQ Hardware, experiencing significant growth, is adopting PowerBi analytics to stay ahead in the market and guide data-driven decisions across finance, sales, marketing, and supply chain areas.
+The company specializes in manufacturing and supplying hardware such as PCs, mouse, printers, etc., to numerous global companies. AtliQ caters to two types of customers—physical stores and e-commerce platforms. AltiQ Hardware, experiencing significant growth, is adopting PowerBi analytics to stay ahead in the market and guide data-driven decisions across finance, sales, marketing, and supply chain areas.
 
 
 **Problem Statement:**
-
-AtliQ Hardware faces challenges in Latin America. Previous decisions relied on surveys and intuition using MS Excel. With growth, the company seeks a Data Analyst to harness abundant data for accurate decision-making, marking a shift towards informed strategies.
+With growth, the company seeks a Data Analyst to harness abundant data for accurate decision-making, marking a shift towards informed strategies.
 
 
 **Project Execution Steps :**
@@ -43,8 +42,6 @@ Preparing for the subsequent design and dashboard creation phase.
 **Tools Used In Project**
 - MS Excel
   
-- MySQL
-  
 - Power BI
   
 - Power BI Service
@@ -58,7 +55,7 @@ Preparing for the subsequent design and dashboard creation phase.
 
 **1. Finance View**
 
-The Finance view exhibits Profit and Loss (P&L) statements, highlighting the top and bottom-performing products and customers. It also contrasts product segment performances across various regions. An important feature is the Year-on-Year P&L comparison in a unified view. A specific button allows comparing current Net Sales with the previous year and the target, assisting decision-making by evaluating past performance against goals.
+The Finance view exhibits Profit and Loss (P&L) statements, highlighting the top and bottom-performing products and customers. It also shows product segment performances across various regions. An important feature is the Year-on-Year P&L comparison in a unified view. A specific button allows comparing current Net Sales with the previous year and the target, assisting decision-making by evaluating past performance against goals.
 
 
 
@@ -106,10 +103,23 @@ The Executive view is a summary report with important metrics like Net Sales, Re
 ![A5](https://github.com/Shimoniarora/AtliQ-Business-Insight-360/assets/158834865/b4188016-1560-412e-abb0-afd21c7715b1)
 
 
-**Project Insights:**
+**Learnings:**
 
-- Explored various areas in Power BI, data modeling, dashboard crafting, and project charter comprehension.
-- Extended beyond Power BI to address business scenarios, specifically into P&L statement analysis.
-- Conducted performance evaluations for products, categories, markets, and customers.
-- Achieved seamless integration of finance statistics and product performance across diverse markets and customers.
-- Presented comprehensive insights through user-friendly dashboards.
+
+-Power Query operations.
+
+-Crafting DAX formulas.
+
+-Complex data modeling.
+
+-Visual selection and formatting.
+
+-Dashboard design principles.
+
+-Bookmark utilization.
+
+-Deployment on Power BI service.
+
+-Stakeholder feedback implementation.
+
+
