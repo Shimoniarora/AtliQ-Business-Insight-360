@@ -32,7 +32,6 @@ Employing Star Schema for data modeling, connecting all dimension tables with Fa
 
 - **DAX Formulas Integration:**
 Implementing over 40 DAX formulas for calculated columns.
-Verifying column accuracy in MySQL or Excel files.
 
 - **Optimization for Report Efficiency:**
 Streamlining the report to reduce file size, a crucial step for seamless sharing and user accessibility.
